@@ -1,24 +1,29 @@
-se# Batida de ponto
+Projeto: Sistema de Registro de Ponto Digital
+Participantes
 
-## Participantes
+João Victor Soares Gamba – RA: 03.22.064356-6
 
-## Descrição 
-Atualmente, os funcionários enfrentam dificuldades no registro de ponto, devido a falhas no reconhecimento digital e à demora no processamento. Além disso, o setor de Recursos Humanos não possui uma ferramenta eficiente para gestão do controle de ponto, sendo necessário realizar cálculos manuais das horas trabalhadas. O que gera retrabalho, erros e atraso na apuração da folha dos funcionários.
+Murillo Carlos Sales Camillo – RA: 03.22.104527-1
 
-## Objetivo
+Rafael Santana de Paula – RA: 03.22.096845-7
 
-  • Criar um site para registrar os pontos de forma prática e confiável.
-	•	Calcular automaticamente as horas trabalhadas, identificando se o funcionário cumpriu sua carga horária.
-	•	Determinar de forma automática o valor de horas extras.
+Gabriel de Freitas Nogueira – RA: 03.22.104771-1
 
+Samuel Soares de Amorim – RA: 03.22.105212-0
 
-João Victor Soares Gamba RA: 03.22.064356-6
+Descrição do Problema
 
-Murillo Carlos Sales Camillo RA: 03.22.104527-1
+Atualmente, os funcionários enfrentam dificuldades recorrentes no processo de registro de ponto, causadas principalmente por falhas no sistema de reconhecimento digital e pela lentidão no processamento dos dados. Além disso, o setor de Recursos Humanos não dispõe de uma ferramenta eficiente para o controle e gestão das marcações de ponto. Como resultado, é necessário realizar cálculos manuais das horas trabalhadas, o que gera retrabalho, aumenta a margem de erro e atrasa a apuração da folha de pagamento.
 
-Rafael Santana de Paula RA: 03.22.096845-7
+Objetivo do Projeto
 
-Gabriel de Freitas Nogueira RA: 03.22.104771-1
+Desenvolver um sistema web que:
 
-Samuel Soares de Amorim RA:03.22.105212-0
+Permita o registro de ponto de forma prática, rápida e confiável;
+
+Calcule automaticamente as horas trabalhadas pelos funcionários;
+
+Verifique o cumprimento da carga horária contratual;
+
+Identifique e calcule automaticamente as horas extras, com base nas regras da empresa.
 
