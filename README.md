@@ -11,6 +11,10 @@ Gabriel de Freitas Nogueira – RA: 03.22.104771-1
 
 Samuel Soares de Amorim – RA: 03.22.105212-0
 
+Willian Demarchi Gama - RA:
+03.22.104849-1
+
+
 Descrição do Problema
 
 Atualmente, os funcionários enfrentam dificuldades recorrentes no processo de registro de ponto, causadas principalmente por falhas no sistema de reconhecimento digital e pela lentidão no processamento dos dados. Além disso, o setor de Recursos Humanos não dispõe de uma ferramenta eficiente para o controle e gestão das marcações de ponto. Como resultado, é necessário realizar cálculos manuais das horas trabalhadas, o que gera retrabalho, aumenta a margem de erro e atrasa a apuração da folha de pagamento.
