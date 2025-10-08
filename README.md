@@ -1,51 +1,29 @@
-🕒 Sistema de Registro de Ponto Digital
+Projeto: Sistema de Registro de Ponto Digital
 
-Este é um sistema web full-stack desenvolvido com o objetivo de modernizar e facilitar o controle de ponto dos colaboradores dentro de uma organização. A solução visa eliminar processos manuais, reduzir erros e otimizar a gestão de jornada de trabalho, trazendo mais eficiência para os setores operacionais e de Recursos Humanos.
+Descrição do Problema
 
-🌟 Recursos Principais
+Atualmente, os funcionários enfrentam dificuldades recorrentes no processo de registro de ponto, causadas principalmente por falhas no sistema de reconhecimento digital e pela lentidão no processamento dos dados. Além disso, o setor de Recursos Humanos não dispõe de uma ferramenta eficiente para o controle e gestão das marcações de ponto. Como resultado, é necessário realizar cálculos manuais das horas trabalhadas, o que gera retrabalho, aumenta a margem de erro e atrasa a apuração da folha de pagamento.
 
-Registro de Ponto Online
-Permite que os funcionários realizem a marcação de entrada, pausa e saída diretamente pelo sistema, de forma prática e segura.
+Objetivo do Projeto
 
-Cálculo Automático de Horas Trabalhadas
-O sistema realiza o cálculo em tempo real da jornada diária e mensal, verificando se a carga horária foi devidamente cumprida.
+Desenvolver um sistema web que:
 
-Gestão de Horas Extras
-Identifica automaticamente horas excedentes à jornada contratual e realiza o cálculo do valor a ser pago, com base nas regras pré-definidas.
+Permita o registro de ponto de forma prática, rápida e confiável.
 
-Painel Administrativo (RH)
-Interface dedicada para o setor de Recursos Humanos acompanhar registros, validar inconsistências e exportar dados para a folha de pagamento.
+Calcule automaticamente as horas trabalhadas pelos funcionários.
 
-Relatórios e Indicadores
-Geração de relatórios completos com dados de frequência, atrasos, ausências e horas extras, auxiliando na tomada de decisões.
+Verifique o cumprimento da carga horária contratual.
 
-🚀 Tecnologias Utilizadas
+Identifique e calcule automaticamente as horas extras, com base nas regras da empresa.
 
-Frontend:
-Desenvolvido com React.js, garantindo uma interface intuitiva, responsiva e com excelente performance.
 
-Backend:
-API construída com Node.js e Express, proporcionando robustez, escalabilidade e segurança na comunicação com o frontend e o banco de dados.
 
-Banco de Dados:
-Utilização do MySQL, um banco relacional amplamente confiável, ideal para armazenar registros de ponto, usuários e cálculos de jornada.
+João Victor Soares Gamba – RA: 03.22.064356-6
 
-Futuras Expansões:
-A arquitetura do sistema foi planejada com foco em escalabilidade, permitindo a futura integração com um Datalake para armazenar logs e aplicar Machine Learning — por exemplo, para prever padrões de absenteísmo ou automatizar alertas de inconsistência no ponto.
+Murillo Carlos Sales Camillo – RA: 03.22.104527-1
 
-👨‍💻 Alunos Participantes
+Rafael Santana de Paula – RA: 03.22.096845-7
 
-João Victor Soares Gamba
-RA: 03.22.064356-6
+Gabriel de Freitas Nogueira – RA: 03.22.104771-1
 
-Murillo Carlos Sales Camillo
-RA: 03.22.104527-1
-
-Rafael Santana de Paula
-RA: 03.22.096845-7
-
-Gabriel de Freitas Nogueira
-RA: 03.22.104771-1
-
-Samuel Soares de Amorim
-RA: 03.22.105212-0
+Samuel Soares de Amorim – RA: 03.22.105212-0
